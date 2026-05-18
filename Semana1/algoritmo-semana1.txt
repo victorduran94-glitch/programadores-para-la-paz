@@ -1,0 +1,58 @@
+ALGORITMO: Llegar temprano a la universidad
+
+PROBLEMA: 
+El estudiante necesita llegar antes de las 12:00 pm a la universidad. 
+Son las 10:00 am y tiene 2 horas para lograrlo.
+
+ENTRADA:
+- Hora actual: 10:00 am
+- Hora de inicio de clases: 12:00 pm
+- Tiempo disponible: 2 horas (120 minutos)
+
+SALIDA:
+- Llegar a tiempo o antes de las 12:00 pm
+
+PASOS:
+
+1. Inicio
+
+2. Calcular el tiempo disponible:
+   tiempo_disponible = 12:00 - 10:00 = 2 horas
+
+3. Identificar las actividades necesarias:
+   3.1. Alistarse (vestirse, preparar mochila, etc.)
+   3.2. Tomar el desayuno
+   3.3. Elegir medio de transporte
+   3.4. Realizar el viaje
+   3.5. Caminar desde la entrada hasta el salón
+
+4. Asignar tiempos estimados a cada actividad:
+   4.1. Alistarse: 15 minutos
+   4.2. Desayunar: 20 minutos
+   4.3. Transporte: 60 minutos (1 hora)
+   4.4. Caminata final: 10 minutos
+   4.5. Margen de seguridad: 15 minutos
+   
+   Total tiempo necesario = 15 + 20 + 60 + 10 + 15 = 120 minutos (2 horas)
+
+5. Comparar tiempo disponible vs tiempo necesario:
+   SI tiempo_necesario <= tiempo_disponible ENTONCES
+        Ejecutar plan normal
+   SINO
+        Buscar alternativas más rápidas
+
+6. Ejecutar el plan:
+   6.1. 10:00 - 10:15 → Alistarse
+   6.2. 10:15 - 10:35 → Desayunar
+   6.3. 10:35 - 11:35 → Viajar (bus, taxi o caminar)
+   6.4. 11:35 - 11:45 → Caminar al salón
+   6.5. 11:45 - 12:00 → Margen de seguridad (llegó temprano)
+
+7. Verificar llegada:
+   SI hora_llegada <= 12:00 ENTONCES
+        Mostrar "Llegaste temprano a la universidad"
+   SINO
+        Mostrar "Llegaste tarde, optimiza el tiempo"
+
+8. Fin
+
