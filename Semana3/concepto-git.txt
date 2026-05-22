@@ -1,0 +1,9 @@
+Un repositorio es una carpeta donde Git guarda todo el código y el historial de cambios de un proyecto.
+Un commit es un guardado oficial que captura cómo estaban los archivos en un momento exacto, acompañado de un mensaje que explica qué cambió.
+Cada commit tiene un identificador único que permite volver a ese punto si algo sale mal.
+El push es la acción de subir esos commits desde tu computadora hacia un repositorio remoto como GitHub.
+Mientras el commit guarda los cambios de forma local, el push los publica en la nube para compartirlos con otros desarrolladores.
+En desarrollo web, estos tres conceptos permiten que varios programadores trabajen juntos sin pisar el trabajo de los demás.
+Gracias al repositorio, commit y push, los equipos mantienen un historial ordenado, transparente y seguro del proyecto.
+El repositorio es el espacio, el commit es la fotografía del cambio y el push es el envío a la nube.
+Por eso, son herramientas esenciales para organizar y colaborar responsablemente en el desarrollo de software.
