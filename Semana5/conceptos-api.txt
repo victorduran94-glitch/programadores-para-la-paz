@@ -1,0 +1,8 @@
+La ruta /reporte con método POST recibe un mensaje enviado por el usuario desde el cuerpo de la solicitud (req.body.mensaje), 
+lo procesa y devuelve una respuesta en formato JSON confirmando que el reporte fue recibido junto con el mensaje original.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Esta ruta podría servir para que los ciudadanos puedan enviar reportes o quejas sobre problemas en su comunidad, como baches en las calles, falta de alumbrado público o ruidos molestos.
+También podría usarse para recibir propuestas ciudadanas de manera organizada, almacenando cada sugerencia en una base de datos para que los líderes comunitarios puedan revisarlas y darles seguimiento.
+Otra aplicación útil es crear un buzón digital anónimo donde los vecinos puedan expresar sus preocupaciones sin temor a represalias, fomentando la participación ciudadana y la transparencia en la gestión comunitaria.
