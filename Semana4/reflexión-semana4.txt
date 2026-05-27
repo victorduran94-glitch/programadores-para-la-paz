@@ -1,0 +1,10 @@
+Pregunta : ¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+Respuesta:
+Es importante que las comunidades construyan sus propias herramientas tecnológicas con tecnologías abiertas como Node.js porque, si dependen de plataformas externas, su información puede ser manipulada por intereses comerciales o políticos que modifiquen, oculten o tergiversen los datos comunitarios.
+Cuando una comunidad usa una red social o una plataforma cerrada para organizarse, no es dueña de sus propios datos y puede perder el acceso a ellos en cualquier momento si la plataforma cambia sus reglas o desaparece.
+Esto significa que propuestas importantes, denuncias o decisiones colectivas pueden borrarse sin previo aviso, haciendo que se pierdan eventos clave y oportunidades de participación ciudadana.
+Además, los algoritmos de estas plataformas deciden qué información ven los miembros de la comunidad, pudiendo ocultar mensajes importantes o mostrar solo lo que conviene a quienes controlan el sistema.
+Con herramientas propias basadas en código abierto, la comunidad puede garantizar que toda la información sea visible, verificable y esté respaldada por sus propios servidores, evitando manipulaciones externas.
+También pueden programar alertas y recordatorios para no perder fechas de reuniones, plazos de propuestas o votaciones importantes.
+Perder una oportunidad por depender de una plataforma ajena es perder poder de decisión y autonomía.
+Por eso, construir tecnología propia no es solo una cuestión técnica, sino una forma de proteger la memoria colectiva y la capacidad de acción de la comunidad.
